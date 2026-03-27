@@ -1,5 +1,3 @@
-# Prithisa Portfolio 💙
-
 This is my personal portfolio website showcasing my skills in Python, HTML, and CSS.
 
 ## 💻 Projects
